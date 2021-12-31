@@ -2,3 +2,8 @@
   height: auto;
   width: 300px;
 }
+
+.card img {
+  height: 150px;
+  width: 150px;
+}
